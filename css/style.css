@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main{
+    background-color: black;
+}
+
+h1{
+    color: white;
+    text-decoration: none;
+    
+}
+
+section{
+    flex-direction: row;
+    display: flex;
+    align-items: center;
+}
+
+.showreel{
+    display:grid;
+    align-items: space-between;
+}
+
+.section-1{
+    margin-left: 300px;
+    align-items: space-between;
+}
